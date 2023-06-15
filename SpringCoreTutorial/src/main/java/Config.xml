@@ -27,6 +27,8 @@
  	<property name="studentName" value="Ashish"/>
  	<property name="studentAddress" value="Rohini"/>
  </bean>
+ <bean class="com.practice.springcore.Student" name="student2"  p:studentId="103" p:studentName="Manisha" p:studentAddress="Rohini">
  
+ </bean>
  <!-- Value as attribute -->
  </beans>

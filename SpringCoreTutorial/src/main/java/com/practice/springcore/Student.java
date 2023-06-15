@@ -36,6 +36,10 @@ public class Student {
 		this.studentName = studentName;
 		this.studentAddress = studentAddress;
 	}
+	public Student() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 	
 	
 
